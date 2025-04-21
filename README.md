@@ -3,7 +3,6 @@
 A simple URL shortener application built with Kotlin and Ktor.
 
 Try the application live [here](https://urlshortener-u2u6.onrender.com)
-
 Note: The application is hosted on a free hosting service, so it may take up to 50 seconds to respond on the first access. Please be patient while it loads.
 
 ## Features
